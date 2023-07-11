@@ -273,6 +273,47 @@ header img{
     margin-left: 18px;
     border: none;
 }
+
+.reviews{
+    width: 100%;
+    margin: 100px auto 200px;
+}
+.review-title{
+    width:300px;
+    color: #272727;
+    text-align:center;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 128px auto 10px;
+}
+.reviews>div{
+    width: 600px;
+    height: 120px;
+    background: rgba(190, 118, 125, 0.90);
+}
+.review-cont1{
+    border-radius: 0px 98.5px 98.5px 0px;
+    padding: 20px;
+}
+.review-cont2{
+    border-radius: 98.5px 0px 0px 98.5px;
+    margin-left: 52%;
+    padding: 24px;
+    text-align: end;
+}
+.review-cont3{
+    border-radius: 0px 98.5px 98.5px 0px;
+    padding: 20px;
+}
+.point{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    width:120px;
+    height:20px;
+}
+
 footer{
     width: 100%;
     height: 450px;
