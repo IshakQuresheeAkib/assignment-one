@@ -2,6 +2,7 @@
     padding:0;
     margin: 0;
     font-family: 'Lato', sans-serif;
+    max-width: 100%;
 }
 header{
     width:100%;
@@ -11,8 +12,8 @@ header{
     align-items: center;
     background-image: url('./image/pngwing\ 10.png');
     background-repeat: no-repeat;
-    background-position: 900px 50px;
-    background-size:635px 800px;
+    background-position: 800px 100px;
+    background-size:535px 750px;
 }
 .header-content{
     height: 506px;
@@ -248,7 +249,7 @@ header{
     height: 24px;
     border-radius: 8px;
     background: #FFF;
-    margin-left: 350px;
+    margin-left: 250px;
     color: rgba(39, 39, 39, 0.60);
     text-align: start;
     padding: 23px 0px 23px 23px;
