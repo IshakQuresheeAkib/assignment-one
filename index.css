@@ -291,6 +291,15 @@ header img{
     height: 120px;
     background: rgba(190, 118, 125, 0.90);
 }
+.reviews h4{
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.5;
+}
+.reviews p{
+    font-size: 15px;
+    font-weight: 400;
+}
 .review-cont1{
     border-radius: 0px 98.5px 98.5px 0px;
     padding: 20px;
